@@ -1,1 +1,1 @@
-# BADS7201
+# BADS7201 Social Network and Media Analysis
